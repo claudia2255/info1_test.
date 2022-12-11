@@ -1,6 +1,5 @@
-print("Hello World")
-x = input('Write a number: ')
+x = 5
 if x<2:
 	print('smaller')
-elif x>2:
+else:
 	print('bigger')
