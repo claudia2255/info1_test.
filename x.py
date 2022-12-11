@@ -2,5 +2,5 @@ print("Hello World")
 x = input('Write a number: ')
 if x<2:
 	print('smaller')
-else:
+elif x>2:
 	print('bigger')
